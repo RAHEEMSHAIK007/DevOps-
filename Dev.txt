@@ -1,0 +1,15 @@
+Git 
+Maven 
+Tomcat
+Jenkins
+Sonar Qube
+Docker
+Kubernetes
+Ansible
+Terraform
+AWS
+Linux Commands
+ I am  DevOps Engineer.
+
+ 
+
