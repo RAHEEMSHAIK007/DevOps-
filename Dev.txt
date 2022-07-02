@@ -1,19 +1,7 @@
-git Rebase
-Git Conflict
-git merge
-git base
-git Branches
-git SVN
-git controller
-git Hub
-git Lab
-Bit Bucket
-git Bash 
-git webhooks
-git commit
-
-
-Thanx
-
-Br0
-Welcome 
+I am an Engineer
+Software Devloper
+Techiee 
+Technical Engineer 
+Software
+controller
+Conflict
