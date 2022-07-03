@@ -55,10 +55,18 @@ Terraform
 git
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> Raheem
 123
 345
 678
 
 =======
+>>>>>>> main
+=======
+=======
+>>>>>>> Raheem
+Ingenious
+Superlative
+>>>>>>> f32e0581ec34038a88cb560a531bb939a536ee1f
 >>>>>>> main
