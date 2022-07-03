@@ -54,3 +54,9 @@ Linux Commands
 Terraform
 git
 
+<<<<<<< HEAD
+=======
+>>>>>>> Raheem
+Ingenious
+Superlative
+>>>>>>> f32e0581ec34038a88cb560a531bb939a536ee1f
