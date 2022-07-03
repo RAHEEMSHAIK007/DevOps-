@@ -48,3 +48,5 @@ var g = 70
 
 
 >>>>>>> Raheem
+Ingenious
+Superlative
