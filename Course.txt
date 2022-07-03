@@ -46,9 +46,19 @@ var e = 50
 var f = 60
 var g = 70 
 
+Devops
+AWS
+Azure
+Kubernetes
+Linux Commands
+Terraform
+git
 
+<<<<<<< HEAD
 >>>>>>> Raheem
 123
 345
 678
 
+=======
+>>>>>>> main
