@@ -36,10 +36,15 @@ var c = 30
 =======
 var a = 10
 var b = 20 
-
-var c = 30
-
-git hubb.
+var c = 30 
 var d = 40
+<<<<<<< HEAD
 var e = 50
+>>>>>>> Raheem
+=======
+var e = 50 
+var f = 60
+var g = 70 
+
+
 >>>>>>> Raheem
